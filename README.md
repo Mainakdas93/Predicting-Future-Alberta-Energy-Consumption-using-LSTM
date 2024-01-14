@@ -76,4 +76,4 @@ Displays a DataFrame containing the true and predicted energy consumption for ea
 Plots the true and predicted energy consumption for each date in the test set.
 
 ## Future Steps: 
-The future steps of the project include predicting hourly pool price and testing the model accuracy for hourly Alberta market demand. 
+The future steps of the project include predicting hourly pool price and testing the model accuracy for 2024 hourly Alberta market demand. 
